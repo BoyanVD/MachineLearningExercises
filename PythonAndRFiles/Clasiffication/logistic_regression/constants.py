@@ -1,0 +1,11 @@
+DATASET_NAME = 'Social_Network_Ads.csv'
+AGE_INDEX = 2
+ESTIMATED_SALARY_INDEX = 3
+PURCHASED_INDEX = 4
+TEST_SIZE = 0.25
+RANDOM_STATE = 0
+NEGATIVE_COLOR = 'red'
+POSITIVE_COLOR = 'blue'
+REGRESSION_NAME = 'Logistic Regression'
+X_AXIS_NAME = 'Age'
+Y_AXIS_NAME = 'Estimated Salary'
